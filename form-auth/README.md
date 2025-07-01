@@ -34,9 +34,3 @@ npm install jsonwebtoken
 npm install --save-dev @types/jsonwebtoken
 ```
 [djecrety](https://djecrety.ir/)
-
-### app demo
-![alt](./public/image/logout.png)
-![alt](./public/image/login.png)
-
-
